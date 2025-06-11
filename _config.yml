@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Alvin Okiya"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/pic-me.jpeg"
   bio    : "Cybersecurity and IT Analyst with hands-on experience in system support, vulnerability assessment, and SIEM monitoring. Passionate about securing digital environments and building practical tools and labs that demonstrate real-world security concepts."
   links:
     - label: "Website"
