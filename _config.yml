@@ -82,6 +82,8 @@ author:
       url: "https://www.linkedin.com/in/alvinokiya/"
 
 footer:
+  custom: custom-footer
+
   links:
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
@@ -98,6 +100,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/alvinokiya/"
+  
       
 defaults:
   # _posts
