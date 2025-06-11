@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 
-# Curriculum Vitae – Alvin Okiya Andaye
+**Avin Okiya Andaye**
 
 ## 📍 Location
 Nairobi, Kenya  
