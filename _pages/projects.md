@@ -15,9 +15,9 @@ permalink: /projects/
 **Description:**  
 Simulated exploitation of an insecure file upload vulnerability using DVWA and Metasploitable2 in a secure lab environment. Successfully deployed a PHP web shell and executed post-exploitation enumeration.
 
-[View Report](https://yourusername.github.io/assets/web-shell-lab.pdf){:target="_blank"}
+[View Report](https://okiyaalvin.github.io/assets/web-shell-lab.pdf){:target="_blank"}
 
-<iframe src="https://yourusername.github.io/assets/web-shell-lab.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
+<iframe src="https://okiyaalvin.github.io/assets/web-shell-lab.pdf#toolbar=0" width="100%" height="500px" style="border: none;"></iframe>
 
 ---
 
