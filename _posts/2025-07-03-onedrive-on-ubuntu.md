@@ -3,6 +3,7 @@ layout: post
 title: "💾 Setting Up OneDrive on Ubuntu the Right Way"
 date: 2025-07-03
 categories: ubuntu onedrive backup
+image: /assets/image/one_drive_ubuntu.png
 ---
 
 # 📦 OneDrive Backup Setup Guide for Ubuntu
@@ -90,6 +91,8 @@ onedrive --synchronize
 - This will open a Microsoft login page in your browser.
 - If it doesn’t, a login URL will appear in the terminal — just copy and paste it into a browser manually.
 - Sign in with your Microsoft account and authorize the app.
+
+![image](/assets/image/one_drive_ubuntu2.jpg)
 
 > 🔑 This step links your Ubuntu device with your OneDrive account.
 
