@@ -96,6 +96,10 @@ onedrive --synchronize
 
 > 🔑 This step links your Ubuntu device with your OneDrive account.
 
+- Once you have logged in successfully, there will be a blank screen on the browser.
+- Copy the full url on the browser at this stage, and paste it in the terminal as it will have prompted you to enter the URI.
+- Click Enter and you will see syncronization progress via the terminal.
+
 ---
 
 ### 6️⃣ Back Up Your Important Folders
